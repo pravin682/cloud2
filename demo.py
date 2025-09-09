@@ -1,1 +1,3 @@
-print("hi cloud")
+print("hi cloud)
+a=10
+
